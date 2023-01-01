@@ -9,6 +9,13 @@ dvipdfmxを使っているなら，宛名はPDFのしおりに一覧表示する
 ![BDF bookmark](pdfbookmark.png)
 
 
+変更点
+-----
+宛先の氏名を最大4人まで記述できるようにしました。
+
+`ifthenelse`パッケージをもちいた簡易的な実装です。
+
+
 Usage
 -----
 
